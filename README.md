@@ -1,0 +1,2 @@
+AWS Lambda enables you to run code without provisioning or overseeing servers. You pay just for the process time you expend - there is no charge when your code isn't running. With Lambda, you can run code for all intents and purposes any kind of utilization or backend benefit - all with zero organization.
+Simply transfer your code and Lambda deals with everything required to run and scale your code with high accessibility. You can set up your code to consequently trigger from different AWS administrations or call it specifically from any web or versatile application
